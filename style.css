@@ -6,9 +6,11 @@
 } 
     
 .section1{
-    background-color: rgb(222, 155, 68);
+    background-color: rgb(133, 77, 5);
+    padding: 100px;
 }
 
 .section2{
-    background-color: rgb(231, 189, 137);
+    background-color: rgb(100, 56, 3);
+    padding: 100px;
 }
